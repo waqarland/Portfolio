@@ -82,22 +82,36 @@ __Mind maps & diagrams__
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+__End-to-End JavaScript Testing with Cypress.io__  
+*Online courses by [Shaun Wassell](https://www.linkedin.com/learning/instructors/shaun-wassell), LinkedIn Learning*  
+An intensive course in test automation with Cypress.io 
+[Link to the certificate](https://www.linkedin.com/learning/certificates/a4c6c4b19f7e8cd74791912eb9fdaec03ad6d1723ca8b51182578a273a2bf882)  
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
 
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+__Software Testing Foundations: Test Techniques__  
+*Online courses by [Mike Fine](https://www.linkedin.com/learning/instructors/mike-fine), LinkedIn Learning*  
+A comprehensive course in which I learned about software testing foundations and testing techniques.   
+[Link to the certificate](https://www.linkedin.com/learning/certificates/bef7301bce7f0faf33dade856d8ab254676752928463db92fadd7711b776cf29?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BijScdg9%2FSRin2EPCNMWwqA%3D%3D)
 
+__Software Testing Foundations: Transitioning from Manual to Automation__  
+*Online courses by [Mike Fine](https://www.linkedin.com/learning/instructors/mike-fine), LinkedIn Learning*  
+A comprehensive course in which I learned about software testing foundations and how a manual tester can transform into an automation tester.   
+[Link to the certificate](https://www.linkedin.com/learning/certificates/634d04f325a0ace3f6b238de597ea77daeed48e21a96a25b6a197bc497a4cf36?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BhiQwQoNjT1KdAJnr5jfNxw%3D%3D)
+
+__Test Automation with Python: 1 Introduction to Automated Testing__  
+*Online courses by [HeadSpin University](https://www.linkedin.com/learning/instructors/headspin-university), LinkedIn Learning*  
+A comprehensive course in which I learned about how we can use python scripting ito automation testing. 
+[Link to the certificate](https://www.linkedin.com/learning/certificates/ff91435f707bf9d754329cb101c8d0438453ed1faf83a383ab3df76bc251588f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BhiQwQoNjT1KdAJnr5jfNxw%3D%3D)
+
+__Pytest__  
+*Online courses by [Great Learning](https://olympus.mygreatlearning.com/)*  
+A comprehensive course in which I learned about how we can use Pytest framework in automation testing 
+[Link to the certificate](https://olympus.mygreatlearning.com/courses/67067/certificate)
+
+__Selenium Basics__  
+*Online courses by [Great Learning](https://olympus.mygreatlearning.com/)*  
+A comprehensive course in which I learned the basics of selenium in automation testing.
+[Link to the certificate](https://olympus.mygreatlearning.com/courses/61859/certificate)
 
 ## Examples of my work
 
