@@ -58,27 +58,18 @@ __Python fundamentals__
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
-
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+* __TestRail__
+* __Jira__
+* __SoapUI__
+* __SVN__
+* __Postman__
+* __JMeter__
+* __Datadog__
+* __SQL Server__
+* __PostgreSQL__
+* __Confluence__
+* __BrowserStack__
+* __Microsoft Office__
 
 ## Courses
 
