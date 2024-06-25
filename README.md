@@ -84,34 +84,44 @@ __Mind maps & diagrams__
 
 * __End-to-End JavaScript Testing with Cypress.io__  
 *Online courses by [Shaun Wassell](https://www.linkedin.com/learning/instructors/shaun-wassell), LinkedIn Learning*  
-An intensive course in test automation with Cypress.io 
+I delved into the world of End-to-End (E2E) JavaScript testing using Cypress.io. This course equipped me with the skills to write automated tests that simulate real user interactions with web applications, ensuring their functionality across different scenarios.
 [Link to the certificate](https://www.linkedin.com/learning/certificates/a4c6c4b19f7e8cd74791912eb9fdaec03ad6d1723ca8b51182578a273a2bf882)  
 
 
 * __Software Testing Foundations: Test Techniques__  
 *Online courses by [Mike Fine](https://www.linkedin.com/learning/instructors/mike-fine), LinkedIn Learning*  
-A comprehensive course in which I learned about software testing foundations and testing techniques.   
+This course broadened my knowledge of various software testing techniques. I explored different approaches like black-box testing, white-box testing, and usability testing, gaining a comprehensive understanding of how to effectively test software applications.
 [Link to the certificate](https://www.linkedin.com/learning/certificates/bef7301bce7f0faf33dade856d8ab254676752928463db92fadd7711b776cf29?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BijScdg9%2FSRin2EPCNMWwqA%3D%3D)
 
 * __Software Testing Foundations: Transitioning from Manual to Automation__  
 *Online courses by [Mike Fine](https://www.linkedin.com/learning/instructors/mike-fine), LinkedIn Learning*  
-A comprehensive course in which I learned about software testing foundations and how a manual tester can transform into an automation tester.   
+This course equipped me with the knowledge and skills necessary to make a smooth transition from manual testing to test automation. I learned valuable strategies for identifying automation candidates and understanding how automation integrates into the software development lifecycle.  
 [Link to the certificate](https://www.linkedin.com/learning/certificates/634d04f325a0ace3f6b238de597ea77daeed48e21a96a25b6a197bc497a4cf36?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BhiQwQoNjT1KdAJnr5jfNxw%3D%3D)
 
 * __Test Automation with Python: 1 Introduction to Automated Testing__  
 *Online courses by [HeadSpin University](https://www.linkedin.com/learning/instructors/headspin-university), LinkedIn Learning*  
-A comprehensive course in which I learned about how we can use python scripting ito automation testing. 
+ In this introductory course, I gained a solid understanding of the core concepts of automated testing. This includes the benefits and limitations compared to manual testing, along with different types of tests commonly used in software development.
 [Link to the certificate](https://www.linkedin.com/learning/certificates/ff91435f707bf9d754329cb101c8d0438453ed1faf83a383ab3df76bc251588f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BhiQwQoNjT1KdAJnr5jfNxw%3D%3D)
 
 * __Pytest__  
 *Online courses by [Great Learning](https://olympus.mygreatlearning.com/)*  
-A comprehensive course in which I learned about how we can use Pytest framework in automation testing 
+In my Pytest course, I've honed my skills in writing automated test cases using the Pytest framework. This allows me to effectively create concise and maintainable tests for Python applications, ensuring their functionality and reliability 
 [Link to the certificate](https://olympus.mygreatlearning.com/courses/67067/certificate)
 
 * __Selenium Basics__  
 *Online courses by [Great Learning](https://olympus.mygreatlearning.com/)*  
 A comprehensive course in which I learned the basics of selenium in automation testing.
 [Link to the certificate](https://olympus.mygreatlearning.com/courses/61859/certificate)
+
+* __Selenium Projects with Python__  
+*Online courses by [Great Learning](https://olympus.mygreatlearning.com/)*  
+I've learned how to leverage Selenium WebDriver with Python to automate web browser interactions for software testing. Now I can write scripts that mimic user actions on websites, like clicking buttons, filling out forms, and submitting data. This automation helps me efficiently test web applications and uncover potential bugs.
+[Link to the certificate](https://olympus.mygreatlearning.com/courses/61864/certificate)
+
+* __Selenium with Python__  
+*Online courses by [Great Learning](https://olympus.mygreatlearning.com/)*  
+In this Selenium with Python course, I've grasped how to automate web browser interactions for software testing. I can now write Python scripts to simulate user actions on websites, like clicking buttons, entering data in forms, and submitting information. This newfound automation skill allows me to efficiently test web applications and identify potential bugs.
+[Link to the certificate](https://olympus.mygreatlearning.com/courses/61861/certificate)
 
 ## Examples of my work
 
