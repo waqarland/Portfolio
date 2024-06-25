@@ -23,13 +23,24 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-_Automation Testing:__
+__Automation Testing:__
 * Cypress.io: Adept at scripting automated tests for web applications using Cypress.io. Possesses experience in creating reusable components, handling data-driven testing, and integrating with CI/CD pipelines. (Reduced manual testing by 55% at Smile Genius Dental using Cypress).
 
 * Selenium with Python: Proficient in automating web browser interactions with Selenium WebDriver and Python. Skilled in writing test scripts, simulating user actions, and integrating with testing frameworks like Pytest. (Increased test coverage and productivity at IBEX Globals using Selenium/Python).
 
+__Manual Testing:__
+* Test Design & Execution: Meticulous in designing test cases covering various functionalities, user scenarios, and edge cases. Experienced in executing manual testing plans, identifying defects, and reporting bugs effectively. (Reduced software defects by 40% at Netsol Technologies through rigorous manual testing).
 
+* SDLC Testing: Familiar with the entire Software Development Lifecycle (SDLC) and its testing phases. Skilled in conducting black-box testing, regression testing, usability testing, and API testing. (Led comprehensive SDLC testing at IBEX Globals, ensuring app stability and high concurrency).
 
+__Technical Skills__
+* Programming Languages: Proficient in Python and JavaScript, with a working knowledge of SQL, C++, and HTML/CSS/Bootstrap.
+* Testing Methodologies: Familiar with various testing methodologies like API Testing, Performance Testing, Black Box Testing, Regression Testing, Test Automation, Exploratory Testing, Test Planning & Execution, Database Testing, UI/UX Testing, and Acceptance Testing.
+
+__Soft Skills__
+* Communication: A strong communicator with the ability to collaborate effectively with developers, project managers, and other stakeholders.
+* Problem-solving: Adept at analyzing complex issues, identifying root causes, and developing solutions to ensure software quality.
+* Organization & Time Management: Highly organized and detail-oriented, with excellent time management skills for prioritizing tasks and meeting deadlines.
 
 ## Tools
 
@@ -45,6 +56,9 @@ _Automation Testing:__
 * __Confluence__
 * __BrowserStack__
 * __Microsoft Office__
+* __Slack__
+* __Cypress.io__
+* __Selenium__
 
 ## Courses
 
