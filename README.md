@@ -10,14 +10,11 @@
 
 
 ## About me
+I'm a passionate software tester with 3+ years of software testing experience and a strong foundation in both manual and automated testing methodologies. I recently completed courses in Test Automation with Python and Software Testing Foundations, equipping me with the skills to write efficient and maintainable test cases using frameworks like Pytest.
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+My experience with Selenium and Cypress.io allows me to automate web browser interactions for thorough testing of web applications. Additionally, I'm familiar with various testing techniques like black-box testing and usability testing, ensuring comprehensive coverage throughout the development lifecycle.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+Beyond the technical aspects, I'm a quick learner with a keen eye for detail. I'm always eager to expand my knowledge and explore new testing tools and techniques.
 
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1MtzaHC8mB4JvCFKoLqC6sVBaInnAeSJ0/view?usp=sharing)
@@ -26,35 +23,13 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+_Automation Testing:__
+* Cypress.io: Adept at scripting automated tests for web applications using Cypress.io. Possesses experience in creating reusable components, handling data-driven testing, and integrating with CI/CD pipelines. (Reduced manual testing by 55% at Smile Genius Dental using Cypress).
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+* Selenium with Python: Proficient in automating web browser interactions with Selenium WebDriver and Python. Skilled in writing test scripts, simulating user actions, and integrating with testing frameworks like Pytest. (Increased test coverage and productivity at IBEX Globals using Selenium/Python).
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
-
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
 
 ## Tools
 
